@@ -1,3 +1,6 @@
+# [frontent-architecture-modular]
+Exemplo de arquitetura micro front-end, no módulo Arquitetura de Front-End (2022) no curso de pós-graduação Arquitetura de Software Distribuído Latu Sensu - PUC MINAS
+
 # Instruções
 
 * Entre na pasta `satellite` via linha de comando e rode o comando `npm install && npm start`.
