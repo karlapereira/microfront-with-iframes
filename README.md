@@ -1,4 +1,4 @@
-# [frontent-architecture-modular]
+# [architecture-microfront-with-iframes]
 Exemplo de arquitetura micro front-end, no módulo Arquitetura de Front-End (2022) no curso de pós-graduação Arquitetura de Software Distribuído Latu Sensu - PUC MINAS
 
 # Instruções
